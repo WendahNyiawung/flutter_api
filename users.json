@@ -1,0 +1,179 @@
+{
+  "users": [
+    {
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "john.doe@example.com",
+      "phone_number": "+1234567890",
+      "avatar": "https://randomuser.me/api/portraits/men/29.jpg"
+    },
+    {
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "email": "jane.smith@example.com",
+      "phone_number": "+1987654321",
+      "avatar": "https://randomuser.me/api/portraits/med/men/45.jpg"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Johnson",
+      "email": "michael.johnson@example.com",
+      "phone_number": "+1122334455",
+      "avatar": "https://randomuser.me/api/portraits/med/men/6.jpg"
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Brown",
+      "email": "emily.brown@example.com",
+      "phone_number": "+1444555666",
+      "avatar": "https://randomuser.me/api/portraits/med/women/4.jpg"
+    },
+    {
+      "first_name": "David",
+      "last_name": "Taylor",
+      "email": "david.taylor@example.com",
+      "phone_number": "+1777888999",
+      "avatar": "https://randomuser.me/api/portraits/med/men/5.jpg"
+    },
+    {
+      "first_name": "Sarah",
+      "last_name": "Johnson",
+      "email": "sarah.johnson@example.com",
+      "phone_number": "+1122334455",
+      "avatar": "https://randomuser.me/api/portraits/med/women/45.jpg"
+    },
+    {
+      "first_name": "Daniel",
+      "last_name": "Williams",
+      "email": "daniel.williams@example.com",
+      "phone_number": "+1223344556",
+      "avatar": "https://randomuser.me/api/portraits/med/men/48.jpg"
+    },
+    {
+      "first_name": "Olivia",
+      "last_name": "Martinez",
+      "email": "olivia.martinez@example.com",
+      "phone_number": "+1334455667",
+      "avatar": "https://randomuser.me/api/portraits/med/women/59.jpg"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Garcia",
+      "email": "james.garcia@example.com",
+      "phone_number": "+1445566778",
+      "avatar": "https://randomuser.me/api/portraits/med/men/55.jpg"
+    },
+    {
+      "first_name": "Sophia",
+      "last_name": "Lopez",
+      "email": "sophia.lopez@example.com",
+      "phone_number": "+1556677889",
+      "avatar": "https://randomuser.me/api/portraits/med/women/25.jpg"
+    },
+    {
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "john.doe@example.com",
+      "phone_number": "+1234567890",
+      "avatar": "https://randomuser.me/api/portraits/med/men/41.jpg"
+    },
+    {
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "email": "jane.smith@example.com",
+      "phone_number": "+1987654321",
+      "avatar": "https://randomuser.me/api/portraits/med/women/41.jpg"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Johnson",
+      "email": "michael.johnson@example.com",
+      "phone_number": "+1122334455",
+      "avatar": "https://randomuser.me/api/portraits/med/men/42.jpg"
+    },
+    {
+      "first_name": "Emily",
+      "last_name": "Brown",
+      "email": "emily.brown@example.com",
+      "phone_number": "+1444555666",
+      "avatar": "https://randomuser.me/api/portraits/med/women/42.jpg"
+    },
+    {
+      "first_name": "David",
+      "last_name": "Taylor",
+      "email": "david.taylor@example.com",
+      "phone_number": "+1777888999",
+      "avatar": "https://randomuser.me/api/portraits/med/men/43.jpg"
+    },
+    {
+      "first_name": "Sarah",
+      "last_name": "Johnson",
+      "email": "sarah.johnson@example.com",
+      "phone_number": "+1122334455",
+      "avatar": "https://randomuser.me/api/portraits/med/women/43.jpg"
+    },
+    {
+      "first_name": "Daniel",
+      "last_name": "Williams",
+      "email": "daniel.williams@example.com",
+      "phone_number": "+1223344556",
+      "avatar": "https://randomuser.me/api/portraits/med/men/5.jpg"
+    },
+    {
+      "first_name": "Olivia",
+      "last_name": "Martinez",
+      "email": "olivia.martinez@example.com",
+      "phone_number": "+1334455667",
+      "avatar": "https://randomuser.me/api/portraits/med/women/5.jpg"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Garcia",
+      "email": "james.garcia@example.com",
+      "phone_number": "+1445566778",
+      "avatar": "https://randomuser.me/api/portraits/med/women/46.jpg"
+    },
+    {
+      "first_name": "Sophia",
+      "last_name": "Lopez",
+      "email": "sophia.lopez@example.com",
+      "phone_number": "+1556677889",
+      "avatar": "https://randomuser.me/api/portraits/med/women/45.jpg"
+    },
+    {
+      "first_name": "Liam",
+      "last_name": "Hernandez",
+      "email": "liam.hernandez@example.com",
+      "phone_number": "+1667788990",
+      "avatar": "https://randomuser.me/api/portraits/med/women/45.jpg"
+    },
+    {
+      "first_name": "Ava",
+      "last_name": "Gonzalez",
+      "email": "ava.gonzalez@example.com",
+      "phone_number": "+1778899001",
+      "avatar": "https://randomuser.me/api/portraits/med/women/45.jpg"
+    },
+    {
+      "first_name": "Noah",
+      "last_name": "Rodriguez",
+      "email": "noah.rodriguez@example.com",
+      "phone_number": "+1889900112",
+      "avatar": "https://randomuser.me/api/portraits/med/women/45.jpg"
+    },
+    {
+      "first_name": "Emma",
+      "last_name": "Perez",
+      "email": "emma.perez@example.com",
+      "phone_number": "+1990011223",
+      "avatar": "https://randomuser.me/api/portraits/med/women/45.jpg"
+    },
+    {
+      "first_name": "Ethan",
+      "last_name": "Torres",
+      "email": "ethan.torres@example.com",
+      "phone_number": "+2001122334",
+      "avatar": "https://randomuser.me/api/portraits/med/women/45.jpg"
+    }
+  ]
+}
